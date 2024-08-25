@@ -1,4 +1,4 @@
-/*
+/**
 Table: Employee
 +-------------+---------+
 | Column Name | Type    |
@@ -48,7 +48,7 @@ Output:
 | Brad | null  |
 | John | null  |
 | Dan  | 500   |
-+------+-------+ /*
++------+-------+ **/
 
 Solution:
 select e.name, b.bonus
